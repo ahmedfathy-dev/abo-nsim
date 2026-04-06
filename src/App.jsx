@@ -6,7 +6,7 @@ import './App.css'
 import { Button } from './components/ui/button'
 import Navpar from './components/ui/Navpar'
 import Hero from './components/ui/Hero'
-import Kharaa from './components/ui/KHaraa'
+import Kharaa from './components/ui/Kharaa'
 
 import Courses from './components/Courses'
 import { Card } from './components/ui/card'
