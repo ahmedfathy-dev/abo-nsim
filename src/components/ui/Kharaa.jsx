@@ -1,7 +1,7 @@
 import React from "react";
 import { FaUser, FaGraduationCap, FaLightbulb, FaChevronLeft, FaChevronRight } from "react-icons/fa";
 
-function WhatWeGive() {
+function Kharaa() {
   return (
     <div className="flex items-center justify-between px-20 py-20 bg-white">
 
@@ -91,4 +91,4 @@ function WhatWeGive() {
   );
 }
 
-export default WhatWeGive;
+export default Kharaa;
